@@ -7,10 +7,9 @@ HTML
 CSS
 Javascript
 
-How to use it?
-
-
 #Output
-![Coffee-Co]()
-![Coffee-Co]()
-![Coffee-Co]()
+![Coffee-Co](https://github.com/shiva-sai-kemmasaram/Coffee-co/blob/main/Screenshot%202024-03-16%20124006.png)
+![Coffee-Co](https://github.com/shiva-sai-kemmasaram/Coffee-co/blob/main/Screenshot%202024-03-16%20124032.png)
+![Coffee-Co](https://github.com/shiva-sai-kemmasaram/Coffee-co/blob/main/Screenshot%202024-03-16%20124102.png)
+![Coffee-Co](https://github.com/shiva-sai-kemmasaram/Coffee-co/blob/main/Screenshot%202024-03-16%20124123.png)
+![Coffee-Co](https://github.com/shiva-sai-kemmasaram/Coffee-co/blob/main/Screenshot%202024-03-16%20124143.png)
